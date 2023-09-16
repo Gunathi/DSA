@@ -15,3 +15,5 @@ In this repository I include my practices of Data Structures and Algorithms
 3. Doubly Linked List
      - Implementation of doubly linked list
      - Insert a node at the begining of the linked list
+     - Insert a node at the end of the linked list
+     - Insert a node at a given position of the linked list
