@@ -14,3 +14,4 @@ In this repository I include my practices of Data Structures and Algorithms
      - Delete from the begining of linked list
 3. Doubly Linked List
      - Implementation of doubly linked list
+     - Insert a node at the begining of the linked list
