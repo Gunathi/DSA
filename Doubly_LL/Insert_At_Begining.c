@@ -62,6 +62,8 @@ void insertAtBeg(){
     printf("\n\nEnter new data: ");
     scanf("%d",&newnode->data);
 
+    newnode->prev = 0;
+    
     head->prev = newnode;
     newnode->next = head;
     head = newnode;
