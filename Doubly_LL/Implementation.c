@@ -61,4 +61,6 @@ void main(){
     create(&count);
     display();
 
+    printf("\nNo of nodes = %d",count);
+
 }
