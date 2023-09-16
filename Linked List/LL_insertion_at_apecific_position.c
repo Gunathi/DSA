@@ -45,7 +45,7 @@ void main(){
         printf("invalid position: ");
     }else {
         temp = head;
-        for(i = 1; i < pos; i++){
+        for(i = 1; i < pos-1; i++){
             temp = temp->next;
         }
 
