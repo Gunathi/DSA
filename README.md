@@ -17,3 +17,6 @@ In this repository I include my practices of Data Structures and Algorithms
      - Insert a node at the begining of the linked list
      - Insert a node at the end of the linked list
      - Insert a node at a given position of the linked list
+     - Delete from begining of the LL
+     - Delete from the end of the LL
+     - Delete from the given specific position of the LL
