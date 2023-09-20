@@ -14,3 +14,9 @@ In this repository I include my practices of Data Structures and Algorithms
      - Implementation of doubly linked list
      - Insert node at the begining, end and at any given position of the linked list
      - Delete from the begining, end and from an any given position of linked list
+     - Reverse
+4. Singly Circular Linked List
+     - Implementation of singly circular linked list
+     - Insert node at the begining, end and at any given position of the linked list
+     - Delete from the begining, end and from an any given position of linked list
+     - Reverse
